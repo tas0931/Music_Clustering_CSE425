@@ -1,3 +1,0 @@
-Method,Silhouette Score,Calinski-Harabasz Index
-VAE + K-Means,0.10481486,183.80977
-PCA + K-Means,0.07722279,202.4456
